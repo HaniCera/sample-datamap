@@ -1,5 +1,3 @@
-package kr.co.rebel9.memexcms.config.web;
-
 /**
  * Comment : primitive value from the specified 'Object'<br />
  * History : 1st<br />
